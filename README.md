@@ -20,6 +20,7 @@
 - [Functions](#functions)
 - [Roadmap](#roadmap)
 - [Concerns](#concerns)
+- [Costs](#costs)
 - [Acknowledgement & Security](#security)
 
 </details>
@@ -74,9 +75,14 @@ For upcoming 2023:
 
 ## Concerns
 
-It's difficult to say for certain whether ChatGPT or any other specific technology will disrupt your job as a data scientist. The field of data science is constantly evolving, and it's important for professionals in the field to stay up-to-date with the latest developments and techniques. It's possible that ChatGPT or similar technologies could be used in certain aspects of data science, but it's also possible that they may not have a significant impact on the field. Ultimately, it will depend on how the technology is used and how it develops in the future.
+It's difficult to say for certain whether ChatGPT or any other specific technology will disrupt your job as a data scientist or analyst. The field of data is constantly evolving, and it's important for professionals in the field to stay up-to-date with the latest developments and techniques. It's possible that ChatGPT or similar technologies could be used in certain aspects of data science, but it's also possible that they may not have a significant impact on the field. Ultimately, it will depend on how the technology is used and how it develops in the future.
 
 But I can say for a fact that ChatGPT can significantly create a more efficient workflow. Just like how I used chat-gpt to generate this read-me markdown page, allowing me to finish this in under 10 minutes.
+
+
+## Costs
+
+ChatGPT is currently free. But the cost in the future is very affordable, 0.0016/thousand tokens. To generate a thousand words essay, the cost is about 2 cents. 
 
 ## Security
 
@@ -85,5 +91,7 @@ Security is a top priority for OpenAI and ChatGPT. ChatGPT uses state-of-the-art
 Do not input any username, password or confidential data into ChatGPT.
 
 ChatGPT may be wrong at times, you have to correct it.
+
+
 
 
