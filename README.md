@@ -82,7 +82,7 @@ But I can say for a fact that ChatGPT can significantly create a more efficient 
 
 ## Costs
 
-ChatGPT is currently free. But the cost in the future is very affordable, 0.0016/thousand tokens. To generate a thousand words essay, the cost is about 2 cents. 
+ChatGPT is currently free. In the future, the estimated cost to generate a thousand words reply is about 2 cents. 
 
 ## Security
 
