@@ -19,9 +19,9 @@
 - [About](#about)
 - [Functions](#functions)
 - [Roadmap](#roadmap)
-- [Additional Features](#additionalfeatures)
 - [Concerns](#concerns)
 - [Costs](#costs)
+- [Additional Features](#features)
 - [Acknowledgement & Security](#security)
 
 </details>
@@ -86,7 +86,7 @@ But I can say for a fact that ChatGPT can significantly create a more efficient 
 ChatGPT is currently free. In the future, the estimated cost to generate a thousand words reply is about 2 cents. 
 
 
-## Additional Features
+## Features
 
 A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link: [Link](https://github.com/liady/ChatGPT-pdf)
 
