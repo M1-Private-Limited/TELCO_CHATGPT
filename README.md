@@ -19,7 +19,7 @@
 - [About](#about)
 - [Functions](#functions)
 - [Roadmap](#roadmap)
-- [Additional Features](#additional features)
+- [Additional Features](#additional)
 - [Concerns](#concerns)
 - [Costs](#costs)
 - [Acknowledgement & Security](#security)
